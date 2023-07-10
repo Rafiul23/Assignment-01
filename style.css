@@ -11,12 +11,14 @@ header{
     height: 100vh;
     background-color: rgba(229, 84, 115, 0.10);
     display: flex;
-    position: relative;
+    justify-content: space-around;
+    align-items: center;
 }
 .header-content{
     width: 650px;
-    height: 400px;
-    margin: 150px;
+    height: 300px;
+    margin-bottom: 150px;
+    margin-left: 100px;
 }
 .header-title{
     color: #272727;
@@ -33,9 +35,6 @@ header{
 .header-img{
     width: 500px;
     height: 650px;
-    position: absolute;
-    bottom: 0;
-    right: 150px;
 }
 .header-btn{
     background-color: #E55473;
@@ -44,6 +43,7 @@ header{
     margin-top: 32px;
     font-size: 20px;            
     font-weight: 700;
+    border-radius: 5px;
 }
 /* header ends here */
 /* main starts here */
@@ -126,4 +126,41 @@ header{
     line-height: 35px;
 }
 /* advantage section ends here */
+/* hot deal section starts here */
+.hot-deal-containers{
+    width: 100%;
+    height: 550px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hot-deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.off{
+    color: #E55473;
+}
+.hot-deal-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.btn-hot{
+    background-color: #E55473;
+    color: #fff;
+    padding: 20px 40px;
+    margin-top: 32px;
+    margin-left: 200px;
+    border-radius: 5px;
+}
+.hot-deal-container{
+    width: 550px;
+    height: 200px;
+}
+/* hot deal section ends here */
 /* main ends here */
