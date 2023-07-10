@@ -1,0 +1,51 @@
+/* common code starts here */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* common code ends here */
+/* header starts here */
+header{
+    width: 100%;
+    height: 105vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.header-content{
+    width: 650px;
+    height: 400px;
+    margin: 150px;
+}
+.header-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 32px;
+}
+.header-img{
+    width: 500px;
+    height: 700px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.header-btn{
+    background-color: #E55473;
+    color: #fff;
+    padding: 20px 40px;
+    margin-top: 32px;
+    font-size: 20px;            
+    font-weight: 700;
+   
+}
+/* header ends here */
