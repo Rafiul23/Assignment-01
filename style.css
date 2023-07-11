@@ -194,4 +194,47 @@ header{
 }
 
 /* instagram section ends here */
+/* latest deal section starts here */
+.latest-deal-container{
+    width: 1070px;
+    height: 336px;
+    margin: 100px auto;
+    background-image: url('./images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.latest-deal-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 80px;
+    margin-bottom: 15px;
+}
+.latest-deal-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.input-subscribe{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    background-color: #fff;
+    padding: 20px 300px 20px 20px;
+    border-radius: 5px;
+    margin-left: 200px;
+    border: none;
+}
+.btn-subscribe{
+    color: #FFF;
+    background-color: #E55473;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 30px;
+    border-radius: 5px;
+    border: none;
+}
+/* latest deal section ends here */
 /* main ends here */
