@@ -68,7 +68,7 @@ header{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    gap: 20px;
+    gap: 10px;
 }
 .featured-img-1, .featured-img-2, .featured-img-3{
     width: 350px;
@@ -100,7 +100,7 @@ header{
 /* advantage section starts here */
 
 .advaantages-container{
-    width: 1090px;
+    width: 1070px;
     height: 300px;
     background: rgba(39, 39, 39, 0.05);
     margin: 120px auto;
@@ -165,4 +165,33 @@ header{
     height: 200px;
 }
 /* hot deal section ends here */
+/* instagram section starts here */
+.instagram{
+    margin-top: 120px;
+}
+.insta-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.insta-pic-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.insta-pic{
+    width: 260px;
+    height: 300px;
+}
+
+/* instagram section ends here */
 /* main ends here */
