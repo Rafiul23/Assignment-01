@@ -25,7 +25,7 @@ nav ul {
 }
 nav ul li {
     margin-right: 30px;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 nav ul li:hover{
     background-color: #fff;
@@ -40,7 +40,7 @@ nav ul li a{
     font-size: 20px;
     font-style: italic;
     line-height: 20px;
-    transition: all 0.1s;
+    transition: all 0.5s;
 }
 nav ul li a:hover{
     color: rgba(229, 84, 115, 0.8);
@@ -102,7 +102,7 @@ header{
     font-size: 20px;            
     font-weight: 700;
     border-radius: 5px;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 .header-btn:hover{
     background-color: #fff;
@@ -139,7 +139,7 @@ header{
     width: 350px;
     height: 400px;
     border-radius: 50% 50% 0 0;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 .featured-img-1:hover{
     transform: scaleY(1.15);
@@ -171,7 +171,7 @@ header{
     line-height: 35px;
     text-decoration: underline;
     margin-top: 30px;
-    transition: all 0.4s;
+    transition: all 0.5s;
 }
 .flower-pink:hover{
     color: rgb(249, 79, 107);
@@ -251,7 +251,7 @@ header{
     margin-top: 32px;
     margin-left: 200px;
     border-radius: 5px;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 .btn-hot:hover{
     color: yellow;
@@ -289,7 +289,7 @@ header{
 .insta-pic{
     width: 260px;
     height: 300px;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 .insta-pic:hover{
     transform: skew(-10deg);
@@ -328,7 +328,7 @@ header{
     border-radius: 5px;
     margin-left: 200px;
     border: none;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 .input-subscribe:hover{
     transform: scale(1.1);
@@ -341,7 +341,7 @@ header{
     padding: 18px 30px;
     border-radius: 5px;
     border: none;
-    transition: all 0.3s;
+    transition: all 0.5s;
 }
 .btn-subscribe:hover{
     color: #E55473;
