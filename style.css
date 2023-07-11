@@ -76,7 +76,8 @@ header{
 }
 .header-img{
     width: 500px;
-    height: 600px;
+    height: 650px;
+    
 }
 .header-btn{
     background-color: #E55473;
@@ -241,7 +242,7 @@ header{
 .btn-hot:hover{
     color: yellow;
     background-color: red;
-    transform: rotate(20deg);
+    transform: rotate(10deg);
 }
 .hot-deal-container{
     width: 550px;
