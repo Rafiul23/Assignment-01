@@ -85,8 +85,9 @@ header{
 }
 .header-img{
     position: absolute;
-    width: 400px;
-    height: 550px;
+    width: 460px;
+    height: 610px;
+    right: 50px;
     bottom: 0;
 }
 .header-btn{
